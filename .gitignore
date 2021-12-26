@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-#key-storage
-keys.*
+# Environment Shite
+.env
 
 # Distribution / packaging
 .Python
